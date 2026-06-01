@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "data.table"]
 	path = data.table
-	url = https://rdatatable.r-universe.dev
+	url = https://github.com/rdatatable/data.table
 [submodule "datapasta"]
 	path = datapasta
-	url = https://milesmcbain.r-universe.dev
+	url = https://github.com/milesmcbain/datapasta
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
