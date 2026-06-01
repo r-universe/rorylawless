@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/rorylawless/rorylawless.r-universe.dev
 	branch = HEAD
+[submodule "data.table"]
+	path = data.table
+	url = https://rdatatable.r-universe.dev
+[submodule "datapasta"]
+	path = datapasta
+	url = https://milesmcbain.r-universe.dev
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
