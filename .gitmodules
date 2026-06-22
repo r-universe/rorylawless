@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/rorylawless/rorylawless.r-universe.dev
 	branch = HEAD
-[submodule "data.table"]
-	path = data.table
-	url = https://github.com/rdatatable/data.table
-[submodule "datapasta"]
-	path = datapasta
-	url = https://github.com/milesmcbain/datapasta
-[submodule "pdftools"]
-	path = pdftools
-	url = https://github.com/ropensci/pdftools
+[submodule "enrollcast"]
+	path = enrollcast
+	url = https://gitlab.com/localopen/enrollcast
